@@ -1,23 +1,29 @@
 # Resources for Learners
-Collection of all useful resources required for a developer
+Collection of all useful resources, videos to get a real kick-start!
 
 # Topics
-- Getting Started
+- [Getting Started](#getting-started)
 - What can you during each college year?
 - Stay Motivated while coding?
 - Developer Roadmaps
-- [Reality of Coding Interviews](#reality-of-interviews)
-- [Why FAANG?](#why-faang)
+- [Coding Interviews](#coding-interviews)
 - Power of Networking
-- The Opensource Spirit
+- [Why Opensouce is Important?](#why-opensource-is-important)
+
+## Getting Started
 
 
-## Reality of Coding Interviews
+## Coding Interviews(#coding-interviews)
+
+### Reality of Coding Interviews
 
 - By [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
   - [Coding Interviews are Broken](https://www.youtube.com/watch?v=bx3--22D4E4)
 
-## Why FAANG?
+### Why FAANG?
 
 - By [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
   - [Why I don't work for FAANG](https://www.youtube.com/watch?v=fhr3yxYf-P0)
+
+
+## Why Opensouce is Important?
